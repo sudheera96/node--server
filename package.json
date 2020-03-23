@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudheera96/node--server.git"
+  },
+  "author": "Sri Sudheera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudheera96/node--server/issues"
+  },
+  "homepage": "https://github.com/sudheera96/node--server#readme"
+}
