@@ -1,22 +1,23 @@
 {
-  "name": "node-server",
+  "name": "package.json",
   "version": "1.0.0",
-  "description": "Simple Node server",
+  "engines": {
+    "node": "9.2.1"
+    },
+  "description": "properties",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sudheera96/node--server"
+    "url": "git+https://github.com/sudheera96/node--server.git"
   },
-  "keywords": [
-    "JavaScript",
-    "Node.js",
-    "web",
-    "server"
-  ],
-  "author": "Sri Sudheera Chitipolu",
-  "license": "MIT"
+  "author": "Sri Sudheera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudheera96/node--server/issues"
+  },
+  "homepage": "https://github.com/sudheera96/node--server#readme"
 }
